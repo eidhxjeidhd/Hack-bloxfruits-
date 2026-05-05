@@ -1,0 +1,12 @@
+local v0=(17091 -(214 + 713)) + (((968 + 2896 + 57263 + 306838) -(275273 -(282 + 595))) -(69237 -(1523 + 114))) + ((468818 -277866) -(81369 + 29269)) ;v0=v0 + ((102 + 11) -((36 -10) + (1132 -(68 + 997)))) + ((2489 -(226 + 1044)) -((1071 -(802 + 150)) + (2684 -1687))) ;local v1=5240333 -4036877 ;local v2=2232028 -1001557 ;local v3=5840204 + 2183277 ;if (v2>v1) then print("true");end if (((998 -(915 + 82)) + v3)>v2) then print("obfuscate the conditions!");end print("Clicking [Strings] will completely hide this string!");do local v4=117 -(32 + 85) ;local v5;while true do if (v4==(1 + 0)) then for v6,v7 in pairs(v5) do if v7 then print("Prime found: "   .. v6 );end end break;end if (v4==(0 + 0)) then function sieve_of_eratosthenes(v8) local v9={};for v10=1 -0 ,v8 do v9[v10]=(958 -(892 + 65))~=v10 ;end for v12=1189 -(1069 + 118) ,math.floor(math.sqrt(v8)) do if v9[v12] then for v13=v12 * v12 ,v8,v12 do v9[v13]=false;end end end return v9;end v5=sieve_of_eratosthenes(952 -532 );v4=2 -1 ;end end end print("How to obfuscate best?");
+-- ⚠️ WARNING: integrity protected!
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
+
+]]--
